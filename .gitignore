@@ -5,8 +5,13 @@
 /.pnp
 .pnp.js
 
+#config
+/src/utils
+
+
 # testing
 /coverage
+/src/pages/Home
 
 # production
 /build
